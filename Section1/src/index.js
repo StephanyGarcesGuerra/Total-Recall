@@ -78,7 +78,7 @@ for (v = 0; v <= 100; v++){
     else console.log(v);
 }
 
-
+console.log("blueberry");
 console.log("===== Functions- printGreeting =====");
 function printGreeting($(name)) {
     return ()
